@@ -1,0 +1,3 @@
+[submodule "mini_trading_simulator"]
+	path = mini_trading_simulator
+	url = https://github.com/tuusuario/mini_trading_simulator.git
